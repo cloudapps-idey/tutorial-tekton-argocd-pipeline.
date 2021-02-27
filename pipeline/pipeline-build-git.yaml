@@ -20,11 +20,11 @@ spec:
     - name: GIT_EMAIL
       type: string
       description: Email for Git author
-      default: idey@redhat.com 
+      default: IndraniDey@live.com
     - name: GIT_NAME
       type: string
       description: Name for Git author
-      default: Indrani Dey 
+      default: cloudapps-idey
   tasks:
     - name: task
       taskRef:
